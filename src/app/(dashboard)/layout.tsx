@@ -40,7 +40,7 @@
 
 
 
-// src/app/(dashboard)/layout.jsx
+
 import React, { useState } from "react";
 import { Sidebar } from '../../components/Sidebar';
 import { Header } from '../../components/Header';
